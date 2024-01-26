@@ -1,4 +1,4 @@
-## Polymorphism
+# Polymorphism
 
 - Compile-time Poly
 	- Static
@@ -6,7 +6,7 @@
 - Run-time Poly
 	- Dynamic Method Dispatch
 
-## Inheritance (Remember Various Types of Inheritance)
+# Inheritance (Remember Various Types of Inheritance)
 
 - Inherit characters & behaviors of the parent
 - Build new classes based on existing ones
@@ -14,9 +14,7 @@
 - sub/child classes : The one that inherits from the parent class
 - superclass: This takes class already has predetermined methods
 
-- Multilevel Inheritance
-
-## Data Abstraction
+# Data Abstraction
 
 - Hiding details, but shows only functionality
 - delcared with keyword
@@ -24,26 +22,19 @@
 - It cannot be instantiated
 - It can have final methods
 - It can have constructors and static methods also.
-
-It's real scenerio
-## Encapsulation
+# Encapsulation
 
 - Wrapping code into a single data
 - Use setter & getter to retrieve data
 - Data hiding & data binding
-## Class
+# Class
 
 - takes no memory since it's a blueprint
 	- But when the objets are created, then memory is used
 
-## Constructors
+# Constructors
 
 - Special methods that take on the class name
-
-## Garbage collection
-
-- Handling memory in the program
-- through garabage collection it is freed up and get rids of unwanted objects
 
 # Methods
 - camelCase
