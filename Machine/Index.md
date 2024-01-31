@@ -58,9 +58,6 @@
 - Interfaces
 - Abstract Classes
 - Enums
-
----
-
 # Modeling languages
 ## Unified Modeling Language (UML)
 
@@ -92,7 +89,9 @@
 	- localStorage
 	- sessionStorage
 - HTTP
+	- [[Navigating HTTP Response and Status Codes]]
 - The Internet
+	- [[Web Mechanics]]
 - Polyfills
 - Debugging
 	- Developer console
@@ -135,17 +134,29 @@
 	- Material Design
 	- Fluent Design
 # Software Architecture & Paradigms
-## Paradigms
+## Programming Paradigms
 
-- Programming Paradigms
-- Object Oriented Programming
-	- S.O.L.I.D
-- Functional Programming
-- Procedural Programming
-## Architecture
+- Imperative Paradigm
+	- Prodedural Programming
+	- Structured Programming
+	- Object Oriented Programming
+		- S.O.L.I.D Principles
+			- Single Responsibility Principle
+			- Open/Closed Principle
+			- Liskov Substitution Principle
+			- Interface Segregation Principle
+			- **D**ependency Inversion
+- Declaritive Paradigm
+	- Functional Programming
+	- Logic Programming
+## Architectures
 
 - Design Patterns
 	- [[Model-View-Controller (MVC)]]
+	- Model-View-ViewModel (MVVM)
+	- Strategy
+	- Singleton
+	- Factory
 # Software Development Methodologies
 
 - Agile Development
